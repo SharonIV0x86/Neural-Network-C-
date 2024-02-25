@@ -1,2 +1,2 @@
 # Neural-Network-C-
-A basic neural network in C++ able to perform logical operations.
+A basic supervised neural network in C++ able to perform logical operations. 
